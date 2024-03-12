@@ -1,4 +1,4 @@
-# helloworld-chrome-extension
+# Hello World - Chrome Extensions
 
 ![image](img/image.png)
 
