@@ -26,12 +26,12 @@ Chrome は最新の状態です
 
 ※ 拡張機能を更新した場合、設定画面の `更新` をクリックして再読み込みする必要がある。
 
-## その他機能
+## メモ
 
 - `Run` ボタンをクリックすると、背景色を変更できる。
-    - [Merge branch 'ex02/run-scripts' · kenkenpa198/helloworld-chrome-extensions@9d459fc](https://github.com/kenkenpa198/helloworld-chrome-extensions/commit/9d459fcbda993d96ab266e385dd38240ddd03f3f)
+    - マージコミット: [Merge branch 'ex02/run-scripts' · kenkenpa198/helloworld-chrome-extensions@9d459fc](https://github.com/kenkenpa198/helloworld-chrome-extensions/commit/9d459fcbda993d96ab266e385dd38240ddd03f3f)
 - 背景色は、拡張機能を右クリック > `オプション` から変更できる。
-    - [Merge branch 'ex03/add-options' · kenkenpa198/helloworld-chrome-extensions@dcb8eac](https://github.com/kenkenpa198/helloworld-chrome-extensions/commit/dcb8eac758b55d7f32dfe12d1a32461e59d2a5b6)
+    - マージコミット: [Merge branch 'ex03/add-options' · kenkenpa198/helloworld-chrome-extensions@dcb8eac](https://github.com/kenkenpa198/helloworld-chrome-extensions/commit/dcb8eac758b55d7f32dfe12d1a32461e59d2a5b6)
 
 ## 参考文献
 
