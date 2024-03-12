@@ -4,7 +4,7 @@
 
 ## Setup
 
-バージョン (chrome://settings/help) :
+バージョン ( chrome://settings/help ) :
 
 ```text
 Chrome は最新の状態です
@@ -17,7 +17,7 @@ Chrome は最新の状態です
     git clone ...
     ```
 
-2. Chrome の拡張機能設定画面 (chrome://extensions/) を開く。
+2. Chrome の拡張機能設定画面 ( chrome://extensions/ ) を開く。
 3. 画面右上部の `デベロッパー モード` を有効化する。
 4. 画面上部の `パッケージ化されていない拡張機能を読み込む` をクリックする。
 5. clone したリポジトリの `my-extension/` を指定する。
