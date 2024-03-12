@@ -14,7 +14,7 @@ Chrome は最新の状態です
 1. 当リポジトリを clone しておく。
 
     ```shell
-    git clone [...](https://github.com/kenkenpa198/helloworld-chrome-extensions.git)
+    git clone https://github.com/kenkenpa198/helloworld-chrome-extensions.git
     ```
 
 2. Chrome の拡張機能設定画面 ( chrome://extensions/ ) を開く。
