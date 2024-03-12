@@ -29,8 +29,29 @@ Chrome は最新の状態です
 ## メモ
 
 - `Run` ボタンをクリックすると、背景色を変更できる。
+    - `manifest.json` でタブへのアクセスとスクリプト実行の権限を与え、`popup.html` から `popup.js` を呼び出している。
+
+        ```json
+        // manifest.json
+        "manifest_version": 3,
+        "permissions": ["activeTab", "scripting"],
+        "action": {
+            ...
+        ```
+
     - マージコミット: [Merge branch 'ex02/run-scripts' · kenkenpa198/helloworld-chrome-extensions@9d459fc](https://github.com/kenkenpa198/helloworld-chrome-extensions/commit/9d459fcbda993d96ab266e385dd38240ddd03f3f)
-- 背景色は、拡張機能を右クリック > `オプション` から変更できる。
+- 変更する背景色は、拡張機能を右クリック > `オプション` から変更できる。
+
+    - 権限へストレージを追加し、オプションページへ `options.html` を定義している。
+
+        ```json
+        // manifest.json
+        "permissions": ["activeTab", "scripting", "storage"],
+        "options_page": "options.html",
+        "action": {
+            ...
+        ```
+
     - マージコミット: [Merge branch 'ex03/add-options' · kenkenpa198/helloworld-chrome-extensions@dcb8eac](https://github.com/kenkenpa198/helloworld-chrome-extensions/commit/dcb8eac758b55d7f32dfe12d1a32461e59d2a5b6)
 - アイコンは 16, 32, 48, 128 px 以外のサイズでもよい。
     - [マニフェスト - アイコン  \|  Extensions  \|  Chrome for Developers](https://developer.chrome.com/docs/extensions/reference/manifest/icons?hl=ja)
