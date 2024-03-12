@@ -2,7 +2,7 @@
 
 ![image](img/image.png)
 
-## Setup
+## セットアップ
 
 バージョン ( chrome://settings/help ) :
 
@@ -26,7 +26,12 @@ Chrome は最新の状態です
 
 ※ 拡張機能を更新した場合、設定画面の `更新` をクリックして再読み込みする必要がある。
 
-## Reference
+## その他機能
+
+- `Run` ボタンをクリックすると、背景色を変更できる。
+- 背景色は、拡張機能を右クリック > `オプション` から変更できる。
+
+## 参考文献
 
 - [とほほのChrome拡張機能開発入門 - とほほのWWW入門](https://www.tohoho-web.com/ex/chrome_extension.html)
 - [マニフェスト - アイコン  \|  Extensions  \|  Chrome for Developers](https://developer.chrome.com/docs/extensions/reference/manifest/icons?hl=ja)
