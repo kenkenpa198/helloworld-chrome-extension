@@ -7,7 +7,7 @@
     "options_page": "options.html",
     "action": {
         "default_popup": "popup.html",
-        "default_icon": "assets/icon16.png"
+        "default_icon": "icons/icon.png"
     },
     "commands": {
         "_execute_action": {
