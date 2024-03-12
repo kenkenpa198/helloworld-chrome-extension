@@ -37,6 +37,7 @@ Chrome は最新の状態です
 
         > 注: 他のサイズのアイコンを指定できます。その場合、Chrome では必要に応じて最適なサイズが使用されます。
 
+    - マージコミット: [Merge branch 'ex04/unify-icons' · kenkenpa198/helloworld-chrome-extensions@5ae93f1](https://github.com/kenkenpa198/helloworld-chrome-extensions/commit/5ae93f18ff3ba796fe469850d329c6bee7cae2ab)
 
 
 ## 参考文献
