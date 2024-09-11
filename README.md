@@ -1,4 +1,4 @@
-# Hello World - Chrome Extensions
+# Practice - Chrome Extensions
 
 ![image](img/image.png)
 
